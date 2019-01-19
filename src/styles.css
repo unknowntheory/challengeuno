@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Karla");
+.App {
+  display: grid;
+  justify-content: center;
+  font-family: Karla;
+  text-align: center;
+}
+
+/* change to 20% */
+/* .shoe-wrapper {
+  position: relative;
+  border: solid #eaebef 1.5px;
+  border-radius: 5px;
+  width: 200px;
+  height: 229px;
+}
+.shoe-picture {
+  margin-top: 13px;
+  width: 140px;
+  height: 100px;
+}
+.shoe-brand {
+  font-weight: bold;
+  padding-left: 30px;
+  text-align: left;
+}
+.shoe-style {
+  padding-left: 30px;
+  text-align: left;
+}
+.shoe-qty {
+  padding-left: 30px;
+  text-align: left;
+}
+.shoe-upc {
+  padding-left: 30px;
+  text-align: left;
+}
+/* wrapper --- options */
+/* .shoe-container-wrapper {
+  width: 200px;
+}
+.shoe-options {
+  margin-top: 1px;
+  position: relative;
+  border: solid #eaebef 1.5px;
+  border-radius: 5px;
+}  */
+
+/* modal css below */
+
+/* inv container  */
